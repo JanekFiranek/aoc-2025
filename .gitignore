@@ -1,3 +1,5 @@
 /.idea/
 /.clj-kondo/
 /.cpcache/
+*.nrepl-port
+aoc-2025.iml
